@@ -2,7 +2,7 @@
 Task 7 @Elevvo ML Internship
 
 ## Instructions
-1. Dataset (Recommended): GTZAN (Kaggle).
+1. Dataset (Recommended): GTZAN ([Kaggle](https://www.kaggle.com/)).
 2. Classify songs into genres based on extracted audio features.
 3. Preprocess features such as MFCCs or use spectrogram images.
 4. Train and evaluate a multi-class model using tabular or image data.
