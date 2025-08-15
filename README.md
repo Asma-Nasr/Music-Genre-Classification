@@ -8,6 +8,10 @@ Task 7 @Elevvo ML Internship
 4. Train and evaluate a multi-class model using tabular or image data.
 5. If image-based, use a CNN model.
 
+### Bonus:
+1. Try both tabular and image-based approaches and compare results.
+2. Use transfer learning on spectrograms.
+
 ## Dataset
 - [Music Genre Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
 
