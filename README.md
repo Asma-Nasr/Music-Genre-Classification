@@ -17,3 +17,6 @@ Task 7 @Elevvo ML Internship
 
 ## Notebook
 - [Music Genre Classification](https://github.com/Asma-Nasr/Music-Genre-Classification/blob/main/music_genre_classification.ipynb)
+
+## Saved Model
+- [Saved Model](https://github.com/Asma-Nasr/Music-Genre-Classification/tree/main/Saved%20Model)
