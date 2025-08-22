@@ -16,4 +16,4 @@ Task 7 @Elevvo ML Internship
 - [Music Genre Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
 
 ## Notebook
-- [Music Genre Classification]()
+- [Music Genre Classification](https://github.com/Asma-Nasr/Music-Genre-Classification/blob/main/music_genre_classification.ipynb)
