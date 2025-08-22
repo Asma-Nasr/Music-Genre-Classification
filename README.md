@@ -20,3 +20,6 @@ Task 7 @Elevvo ML Internship
 
 ## Saved Model
 - [Saved Model](https://github.com/Asma-Nasr/Music-Genre-Classification/tree/main/Saved%20Model)
+
+## Results
+![Results](https://github.com/Asma-Nasr/Music-Genre-Classification/blob/main/output.png)
