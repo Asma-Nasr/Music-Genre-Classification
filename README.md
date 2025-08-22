@@ -23,3 +23,10 @@ Task 7 @Elevvo ML Internship
 
 ## Results
 ![Results](https://github.com/Asma-Nasr/Music-Genre-Classification/blob/main/output.png)
+
+## Performance Comparison
+
+| Models      | Accuracy | ROC Score |
+|-------------|----------|-----------|
+| Custom CNN  | 61.50%   | 0.9095    |
+| MobileNet   | 69.50%   | 0.9367    |
